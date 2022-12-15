@@ -1,7 +1,7 @@
 name: flutter_foreground_task
 description: This plugin is used to implement a foreground service on the Android platform.
 version: 3.7.3
-homepage: https://github.com/Dev-hwang/flutter_foreground_task
+#homepage: https://github.com/Dev-hwang/flutter_foreground_task
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
